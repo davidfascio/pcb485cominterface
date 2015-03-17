@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=TPIC6B5951 Member=C9_REG
+Removed Member From Class: ClassName=TPIC6B5951 Member=U3_REG
+Change Class Name : Old Net Name=TPIC6B5951 New Net Name=TPIC6B5952
+Change Class Name : Old Net Name=TPIC6B5952 New Net Name=TPIC6B5951
+Added Member To Class: ClassName=TPIC6B5952 Member=Component C9_TPIC6B5952 (C9) CAP0.1uF
+Added Member To Class: ClassName=TPIC6B5952 Member=Component U3_TPIC6B5952 (U3) POWER SHIFT REG

@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=VCC Pin=U3_REG4-1
+Added Pin To Net: NetName=INPUT Pin=U3_REG4-2
+Added Pin To Net: NetName=SEGC_7SEG4 Pin=U3_REG4-3
+Added Pin To Net: NetName=SEGF_7SEG4 Pin=U3_REG4-4
+Added Pin To Net: NetName=SEGG_7SEG4 Pin=U3_REG4-5
+Added Pin To Net: NetName=SEGD_7SEG4 Pin=U3_REG4-6
+Added Pin To Net: NetName=VCC Pin=U3_REG4-7
+Added Pin To Net: NetName=GND Pin=U3_REG4-8
+Added Pin To Net: NetName=NetU3_REG3_2 Pin=U3_REG4-9
+Added Pin To Net: NetName=RCK Pin=U3_REG4-10
+Added Pin To Net: NetName=SEGE_7SEG4 Pin=U3_REG4-11
+Added Pin To Net: NetName=SEGA_7SEG4 Pin=U3_REG4-12
+Added Pin To Net: NetName=SEGB_7SEG4 Pin=U3_REG4-13
+Added Pin To Net: NetName=DOT_7SEG4 Pin=U3_REG4-14
+Added Pin To Net: NetName=CLK Pin=U3_REG4-15
+Added Pin To Net: NetName=GND Pin=U3_REG4-16

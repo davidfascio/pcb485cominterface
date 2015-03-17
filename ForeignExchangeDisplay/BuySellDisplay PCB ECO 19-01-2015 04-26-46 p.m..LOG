@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q1-1
+Removed Pin From Net: NetName=VCC Pin=Q1-2
+Removed Member From Class: ClassName=SUPPLY Member=Q1
+Change Component Footprint: Designator=D6 Old Footprint=SMBJ5.0A New Footprint=150060YS75000
+Change Component Comment : Designator=D6 Old Comment=SMBJ12A-E3/52 New Comment=150060YS75000
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Added Component: Designator=D7(SMBJ5.0A)
+Added Pin To Net: NetName=EXTSUPP Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetD6_1
+Added Member To Class: ClassName=SUPPLY Member=Component D8 SMBJ5.0A
+Removed Pin From Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=VCC Pin=D6-2

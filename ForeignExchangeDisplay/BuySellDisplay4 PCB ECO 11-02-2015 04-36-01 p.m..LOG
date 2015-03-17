@@ -1,0 +1,163 @@
+Removed Pin From Net: NetName=VCC Pin=U3_TPIC6B5951-1
+Removed Pin From Net: NetName=NetU3_TPIC6B5951_2 Pin=U3_TPIC6B5951-2
+Removed Pin From Net: NetName=SEGB_7SEG1 Pin=U3_TPIC6B5951-3
+Removed Pin From Net: NetName=SEGA_7SEG1 Pin=U3_TPIC6B5951-4
+Removed Pin From Net: NetName=SEGE_7SEG1 Pin=U3_TPIC6B5951-5
+Removed Pin From Net: NetName=SEGG_7SEG1 Pin=U3_TPIC6B5951-6
+Removed Pin From Net: NetName=VCC Pin=U3_TPIC6B5951-7
+Removed Pin From Net: NetName=GND Pin=U3_TPIC6B5951-8
+Removed Pin From Net: NetName=MISO Pin=U3_TPIC6B5951-9
+Removed Pin From Net: NetName=RCK Pin=U3_TPIC6B5951-10
+Removed Pin From Net: NetName=SEGD_7SEG1 Pin=U3_TPIC6B5951-11
+Removed Pin From Net: NetName=SEGC_7SEG1 Pin=U3_TPIC6B5951-12
+Removed Pin From Net: NetName=SEGF_7SEG1 Pin=U3_TPIC6B5951-13
+Removed Pin From Net: NetName=DOT_7SEG1 Pin=U3_TPIC6B5951-14
+Removed Pin From Net: NetName=CLK Pin=U3_TPIC6B5951-15
+Removed Pin From Net: NetName=GND Pin=U3_TPIC6B5951-16
+Removed Pin From Net: NetName=VCC Pin=U3_TPIC6B5952-1
+Removed Pin From Net: NetName=NetU3_TPIC6B5952_2 Pin=U3_TPIC6B5952-2
+Removed Pin From Net: NetName=SEGB_7SEG2 Pin=U3_TPIC6B5952-3
+Removed Pin From Net: NetName=SEGA_7SEG2 Pin=U3_TPIC6B5952-4
+Removed Pin From Net: NetName=SEGE_7SEG2 Pin=U3_TPIC6B5952-5
+Removed Pin From Net: NetName=SEGG_7SEG2 Pin=U3_TPIC6B5952-6
+Removed Pin From Net: NetName=VCC Pin=U3_TPIC6B5952-7
+Removed Pin From Net: NetName=GND Pin=U3_TPIC6B5952-8
+Removed Pin From Net: NetName=NetU3_TPIC6B5951_2 Pin=U3_TPIC6B5952-9
+Removed Pin From Net: NetName=RCK Pin=U3_TPIC6B5952-10
+Removed Pin From Net: NetName=SEGD_7SEG2 Pin=U3_TPIC6B5952-11
+Removed Pin From Net: NetName=SEGC_7SEG2 Pin=U3_TPIC6B5952-12
+Removed Pin From Net: NetName=SEGF_7SEG2 Pin=U3_TPIC6B5952-13
+Removed Pin From Net: NetName=DOT_7SEG2 Pin=U3_TPIC6B5952-14
+Removed Pin From Net: NetName=CLK Pin=U3_TPIC6B5952-15
+Removed Pin From Net: NetName=GND Pin=U3_TPIC6B5952-16
+Removed Pin From Net: NetName=VCC Pin=U3_TPIC6B5953-1
+Removed Pin From Net: NetName=NetU3_TPIC6B5953_2 Pin=U3_TPIC6B5953-2
+Removed Pin From Net: NetName=SEGB_7SEG3 Pin=U3_TPIC6B5953-3
+Removed Pin From Net: NetName=SEGA_7SEG3 Pin=U3_TPIC6B5953-4
+Removed Pin From Net: NetName=SEGE_7SEG3 Pin=U3_TPIC6B5953-5
+Removed Pin From Net: NetName=SEGG_7SEG3 Pin=U3_TPIC6B5953-6
+Removed Pin From Net: NetName=VCC Pin=U3_TPIC6B5953-7
+Removed Pin From Net: NetName=GND Pin=U3_TPIC6B5953-8
+Removed Pin From Net: NetName=NetU3_TPIC6B5952_2 Pin=U3_TPIC6B5953-9
+Removed Pin From Net: NetName=RCK Pin=U3_TPIC6B5953-10
+Removed Pin From Net: NetName=SEGD_7SEG3 Pin=U3_TPIC6B5953-11
+Removed Pin From Net: NetName=SEGC_7SEG3 Pin=U3_TPIC6B5953-12
+Removed Pin From Net: NetName=SEGF_7SEG3 Pin=U3_TPIC6B5953-13
+Removed Pin From Net: NetName=DOT_7SEG3 Pin=U3_TPIC6B5953-14
+Removed Pin From Net: NetName=CLK Pin=U3_TPIC6B5953-15
+Removed Pin From Net: NetName=GND Pin=U3_TPIC6B5953-16
+Removed Pin From Net: NetName=VCC Pin=U3_TPIC6B5954-1
+Removed Pin From Net: NetName=INPUT Pin=U3_TPIC6B5954-2
+Removed Pin From Net: NetName=SEGB_7SEG4 Pin=U3_TPIC6B5954-3
+Removed Pin From Net: NetName=SEGA_7SEG4 Pin=U3_TPIC6B5954-4
+Removed Pin From Net: NetName=SEGE_7SEG4 Pin=U3_TPIC6B5954-5
+Removed Pin From Net: NetName=SEGG_7SEG4 Pin=U3_TPIC6B5954-6
+Removed Pin From Net: NetName=VCC Pin=U3_TPIC6B5954-7
+Removed Pin From Net: NetName=GND Pin=U3_TPIC6B5954-8
+Removed Pin From Net: NetName=NetU3_TPIC6B5953_2 Pin=U3_TPIC6B5954-9
+Removed Pin From Net: NetName=RCK Pin=U3_TPIC6B5954-10
+Removed Pin From Net: NetName=SEGD_7SEG4 Pin=U3_TPIC6B5954-11
+Removed Pin From Net: NetName=SEGC_7SEG4 Pin=U3_TPIC6B5954-12
+Removed Pin From Net: NetName=SEGF_7SEG4 Pin=U3_TPIC6B5954-13
+Removed Pin From Net: NetName=DOT_7SEG4 Pin=U3_TPIC6B5954-14
+Removed Pin From Net: NetName=CLK Pin=U3_TPIC6B5954-15
+Removed Pin From Net: NetName=GND Pin=U3_TPIC6B5954-16
+Removed Member From Class: ClassName=TPIC6B5951 Member=C9_TPIC6B5951
+Removed Member From Class: ClassName=TPIC6B5952 Member=C9_TPIC6B5952
+Removed Member From Class: ClassName=TPIC6B5953 Member=C9_TPIC6B5953
+Removed Member From Class: ClassName=TPIC6B5954 Member=C9_TPIC6B5954
+Removed Member From Class: ClassName=TPIC6B5951 Member=U3_TPIC6B5951
+Removed Member From Class: ClassName=TPIC6B5952 Member=U3_TPIC6B5952
+Removed Member From Class: ClassName=TPIC6B5953 Member=U3_TPIC6B5953
+Removed Member From Class: ClassName=TPIC6B5954 Member=U3_TPIC6B5954
+Change Component Designator: OldDesignator=C9_TPIC6B5951 NewDesignator=C9_REG1
+Change Component Designator: OldDesignator=C9_TPIC6B5952 NewDesignator=C9_REG2
+Change Component Designator: OldDesignator=C9_TPIC6B5953 NewDesignator=C9_REG3
+Change Component Designator: OldDesignator=C9_TPIC6B5954 NewDesignator=C9_REG4
+Added Component: Designator=U3_REG1(NPIC6C595_Q100_SOIC16)
+Added Component: Designator=U3_REG2(NPIC6C595_Q100_SOIC16)
+Added Component: Designator=U3_REG3(NPIC6C595_Q100_SOIC16)
+Added Component: Designator=U3_REG4(NPIC6C595_Q100_SOIC16)
+Added Pin To Net: NetName=VCC Pin=U3_REG1-1
+Added Pin To Net: NetName=NetU3_TPIC6B5951_2 Pin=U3_REG1-2
+Added Pin To Net: NetName=SEGB_7SEG1 Pin=U3_REG1-3
+Added Pin To Net: NetName=SEGA_7SEG1 Pin=U3_REG1-4
+Added Pin To Net: NetName=SEGE_7SEG1 Pin=U3_REG1-5
+Added Pin To Net: NetName=SEGG_7SEG1 Pin=U3_REG1-6
+Added Pin To Net: NetName=VCC Pin=U3_REG1-7
+Added Pin To Net: NetName=GND Pin=U3_REG1-8
+Added Pin To Net: NetName=MISO Pin=U3_REG1-9
+Added Pin To Net: NetName=RCK Pin=U3_REG1-10
+Added Pin To Net: NetName=SEGD_7SEG1 Pin=U3_REG1-11
+Added Pin To Net: NetName=SEGC_7SEG1 Pin=U3_REG1-12
+Added Pin To Net: NetName=SEGF_7SEG1 Pin=U3_REG1-13
+Added Pin To Net: NetName=DOT_7SEG1 Pin=U3_REG1-14
+Added Pin To Net: NetName=CLK Pin=U3_REG1-15
+Added Pin To Net: NetName=GND Pin=U3_REG1-16
+Added Pin To Net: NetName=VCC Pin=U3_REG2-1
+Added Pin To Net: NetName=NetU3_TPIC6B5952_2 Pin=U3_REG2-2
+Added Pin To Net: NetName=SEGB_7SEG2 Pin=U3_REG2-3
+Added Pin To Net: NetName=SEGA_7SEG2 Pin=U3_REG2-4
+Added Pin To Net: NetName=SEGE_7SEG2 Pin=U3_REG2-5
+Added Pin To Net: NetName=SEGG_7SEG2 Pin=U3_REG2-6
+Added Pin To Net: NetName=VCC Pin=U3_REG2-7
+Added Pin To Net: NetName=GND Pin=U3_REG2-8
+Added Pin To Net: NetName=NetU3_TPIC6B5951_2 Pin=U3_REG2-9
+Added Pin To Net: NetName=RCK Pin=U3_REG2-10
+Added Pin To Net: NetName=SEGD_7SEG2 Pin=U3_REG2-11
+Added Pin To Net: NetName=SEGC_7SEG2 Pin=U3_REG2-12
+Added Pin To Net: NetName=SEGF_7SEG2 Pin=U3_REG2-13
+Added Pin To Net: NetName=DOT_7SEG2 Pin=U3_REG2-14
+Added Pin To Net: NetName=CLK Pin=U3_REG2-15
+Added Pin To Net: NetName=GND Pin=U3_REG2-16
+Added Pin To Net: NetName=VCC Pin=U3_REG3-1
+Added Pin To Net: NetName=NetU3_TPIC6B5953_2 Pin=U3_REG3-2
+Added Pin To Net: NetName=SEGB_7SEG3 Pin=U3_REG3-3
+Added Pin To Net: NetName=SEGA_7SEG3 Pin=U3_REG3-4
+Added Pin To Net: NetName=SEGE_7SEG3 Pin=U3_REG3-5
+Added Pin To Net: NetName=SEGG_7SEG3 Pin=U3_REG3-6
+Added Pin To Net: NetName=VCC Pin=U3_REG3-7
+Added Pin To Net: NetName=GND Pin=U3_REG3-8
+Added Pin To Net: NetName=NetU3_TPIC6B5952_2 Pin=U3_REG3-9
+Added Pin To Net: NetName=RCK Pin=U3_REG3-10
+Added Pin To Net: NetName=SEGD_7SEG3 Pin=U3_REG3-11
+Added Pin To Net: NetName=SEGC_7SEG3 Pin=U3_REG3-12
+Added Pin To Net: NetName=SEGF_7SEG3 Pin=U3_REG3-13
+Added Pin To Net: NetName=DOT_7SEG3 Pin=U3_REG3-14
+Added Pin To Net: NetName=CLK Pin=U3_REG3-15
+Added Pin To Net: NetName=GND Pin=U3_REG3-16
+Added Pin To Net: NetName=VCC Pin=U3_REG4-1
+Added Pin To Net: NetName=INPUT Pin=U3_REG4-2
+Added Pin To Net: NetName=SEGB_7SEG4 Pin=U3_REG4-3
+Added Pin To Net: NetName=SEGA_7SEG4 Pin=U3_REG4-4
+Added Pin To Net: NetName=SEGE_7SEG4 Pin=U3_REG4-5
+Added Pin To Net: NetName=SEGG_7SEG4 Pin=U3_REG4-6
+Added Pin To Net: NetName=VCC Pin=U3_REG4-7
+Added Pin To Net: NetName=GND Pin=U3_REG4-8
+Added Pin To Net: NetName=NetU3_TPIC6B5953_2 Pin=U3_REG4-9
+Added Pin To Net: NetName=RCK Pin=U3_REG4-10
+Added Pin To Net: NetName=SEGD_7SEG4 Pin=U3_REG4-11
+Added Pin To Net: NetName=SEGC_7SEG4 Pin=U3_REG4-12
+Added Pin To Net: NetName=SEGF_7SEG4 Pin=U3_REG4-13
+Added Pin To Net: NetName=DOT_7SEG4 Pin=U3_REG4-14
+Added Pin To Net: NetName=CLK Pin=U3_REG4-15
+Added Pin To Net: NetName=GND Pin=U3_REG4-16
+Change Net Name : Old Net Name=NetU3_TPIC6B5951_2 New Net Name=NetU3_REG1_2
+Change Net Name : Old Net Name=NetU3_TPIC6B5952_2 New Net Name=NetU3_REG2_2
+Change Net Name : Old Net Name=NetU3_TPIC6B5953_2 New Net Name=NetU3_REG3_2
+Change Class Name : Old Net Name=TPIC6B5951 New Net Name=REG4
+Change Class Name : Old Net Name=TPIC6B5952 New Net Name=REG3
+Change Class Name : Old Net Name=TPIC6B5953 New Net Name=REG2
+Change Class Name : Old Net Name=TPIC6B5954 New Net Name=REG1
+Added Member To Class: ClassName=REG1 Member=Component C9_REG1 (C9) CAP0.1uF
+Added Member To Class: ClassName=REG2 Member=Component C9_REG2 (C9) CAP0.1uF
+Added Member To Class: ClassName=REG3 Member=Component C9_REG3 (C9) CAP0.1uF
+Added Member To Class: ClassName=REG4 Member=Component C9_REG4 (C9) CAP0.1uF
+Added Member To Class: ClassName=REG1 Member=Component U3_REG1 (U3) NPIC6C595-Q100 
+Added Member To Class: ClassName=REG2 Member=Component U3_REG2 (U3) NPIC6C595-Q100 
+Added Member To Class: ClassName=REG3 Member=Component U3_REG3 (U3) NPIC6C595-Q100 
+Added Member To Class: ClassName=REG4 Member=Component U3_REG4 (U3) NPIC6C595-Q100 
+Added Room: Name=REG1
+Added Room: Name=REG2
+Added Room: Name=REG3
+Added Room: Name=REG4

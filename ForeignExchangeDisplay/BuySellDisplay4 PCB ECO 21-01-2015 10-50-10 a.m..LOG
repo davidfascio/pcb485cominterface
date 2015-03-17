@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=C9_SEGCTRL1 NewDesignator=C9_TPIC6B5951
+Change Component Designator: OldDesignator=C9_SEGCTRL2 NewDesignator=C9_TPIC6B5952
+Change Component Designator: OldDesignator=C9_SEGCTRL3 NewDesignator=C9_TPIC6B5953
+Change Component Designator: OldDesignator=C9_SEGCTRL4 NewDesignator=C9_TPIC6B5954
+Change Component Designator: OldDesignator=U3_SEGCTRL1 NewDesignator=U3_TPIC6B5951
+Change Component Designator: OldDesignator=U3_SEGCTRL2 NewDesignator=U3_TPIC6B5952
+Change Component Designator: OldDesignator=U3_SEGCTRL3 NewDesignator=U3_TPIC6B5953
+Change Component Designator: OldDesignator=U3_SEGCTRL4 NewDesignator=U3_TPIC6B5954
+Change Net Name : Old Net Name=NetU3_SEGCTRL1_3 New Net Name=NetU3_TPIC6B5951_3
+Change Net Name : Old Net Name=NetU3_SEGCTRL2_3 New Net Name=NetU3_TPIC6B5952_3
+Change Net Name : Old Net Name=NetU3_SEGCTRL3_3 New Net Name=NetU3_TPIC6B5953_3
+Change Class Name : Old Net Name=SEGCTRL1 New Net Name=TPIC6B5951
+Change Class Name : Old Net Name=SEGCTRL2 New Net Name=TPIC6B5952
+Change Class Name : Old Net Name=SEGCTRL3 New Net Name=TPIC6B5953
+Change Class Name : Old Net Name=SEGCTRL4 New Net Name=TPIC6B5954
+Added Member To Class: ClassName=TPIC6B5951 Member=Component C9_TPIC6B5951 (C9) CAP0.1uF
+Added Member To Class: ClassName=TPIC6B5952 Member=Component C9_TPIC6B5952 (C9) CAP0.1uF
+Added Member To Class: ClassName=TPIC6B5953 Member=Component C9_TPIC6B5953 (C9) CAP0.1uF
+Added Member To Class: ClassName=TPIC6B5954 Member=Component C9_TPIC6B5954 (C9) CAP0.1uF
+Added Member To Class: ClassName=TPIC6B5951 Member=Component U3_TPIC6B5951 (U3) TPIC6B595
+Added Member To Class: ClassName=TPIC6B5952 Member=Component U3_TPIC6B5952 (U3) TPIC6B595
+Added Member To Class: ClassName=TPIC6B5953 Member=Component U3_TPIC6B5953 (U3) TPIC6B595
+Added Member To Class: ClassName=TPIC6B5954 Member=Component U3_TPIC6B5954 (U3) TPIC6B595
+Added Room: Name=TPIC6B5951
+Added Room: Name=TPIC6B5952
+Added Room: Name=TPIC6B5953
+Added Room: Name=TPIC6B5954

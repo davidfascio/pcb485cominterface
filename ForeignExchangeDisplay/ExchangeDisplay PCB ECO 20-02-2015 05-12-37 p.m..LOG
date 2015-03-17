@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DOUT1 Pin=U3_REG1-2
+Removed Pin From Net: NetName=DOUT2 Pin=U3_REG1-9
+Removed Pin From Net: NetName=DOUT0 Pin=U3_REG2-2
+Removed Pin From Net: NetName=DOUT1 Pin=U3_REG2-9
+Added Pin To Net: NetName=DOUT0 Pin=U3_REG1-2
+Added Pin To Net: NetName=DOUT1 Pin=U3_REG1-9
+Added Pin To Net: NetName=DOUT1 Pin=U3_REG2-2
+Added Pin To Net: NetName=DOUT2 Pin=U3_REG2-9

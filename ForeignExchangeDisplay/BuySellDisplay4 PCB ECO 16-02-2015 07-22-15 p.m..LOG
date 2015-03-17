@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RCK Pin=U2-43
+Change Component Designator: OldDesignator=J1_BUS1 NewDesignator=J1_BUS2
+Change Component Designator: OldDesignator=J1_BUS2 NewDesignator=J1_BUS3
+Added Pin To Net: NetName=RCK Pin=U2-37

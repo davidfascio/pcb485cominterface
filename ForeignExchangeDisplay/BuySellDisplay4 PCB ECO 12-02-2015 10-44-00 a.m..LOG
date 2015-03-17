@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R5 Old Comment=RK73B1HTTC472J New Comment=RES4.7K
+Removed Pin From Net: NetName=NetD4_1 Pin=R5-1
+Added Pin To Net: NetName=IND Pin=R5-1
+Removed Pin From Net: NetName=IND Pin=R5-2
+Added Pin To Net: NetName=NetD4_1 Pin=R5-2

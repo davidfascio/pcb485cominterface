@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=C9_SEGCTRL1 NewDesignator=C9_TPIC6B5951
+Change Component Designator: OldDesignator=C9_SEGCTRL2 NewDesignator=C9_TPIC6B5952
+Change Component Designator: OldDesignator=C9_SEGCTRL3 NewDesignator=C9_TPIC6B5953
+Change Component Designator: OldDesignator=C9_SEGCTRL4 NewDesignator=C9_TPIC6B5954
+Change Component Designator: OldDesignator=U3_SEGCTRL1 NewDesignator=U3_TPIC6B5951
+Change Component Designator: OldDesignator=U3_SEGCTRL2 NewDesignator=U3_TPIC6B5952
+Change Component Designator: OldDesignator=U3_SEGCTRL3 NewDesignator=U3_TPIC6B5953
+Change Component Designator: OldDesignator=U3_SEGCTRL4 NewDesignator=U3_TPIC6B5954
+Change Net Name : Old Net Name=NetU3_SEGCTRL1_3 New Net Name=NetU3_TPIC6B5951_3
+Change Net Name : Old Net Name=NetU3_SEGCTRL2_3 New Net Name=NetU3_TPIC6B5952_3
+Change Net Name : Old Net Name=NetU3_SEGCTRL3_3 New Net Name=NetU3_TPIC6B5953_3
+Change Class Name : Old Net Name=SEGCTRL1 New Net Name=TPIC6B5951
+Change Class Name : Old Net Name=SEGCTRL2 New Net Name=TPIC6B5952
+Change Class Name : Old Net Name=SEGCTRL3 New Net Name=TPIC6B5953
+Change Class Name : Old Net Name=SEGCTRL4 New Net Name=TPIC6B5954
+Added Room: Name=TPIC6B5951
+Added Room: Name=TPIC6B5952
+Added Room: Name=TPIC6B5953
+Added Room: Name=TPIC6B5954

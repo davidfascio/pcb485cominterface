@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MISO Pin=U3_REG1-9
+Added Pin To Net: NetName=OUTPUT Pin=U3_REG1-9
+Added Net: Name=OUTPUT
+Added Member To Class: ClassName=BUS2 Member=Component J1_BUS2 (J1) RJ45

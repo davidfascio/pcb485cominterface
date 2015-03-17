@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=U3_SEGCTRL3-21
+Change Component Footprint: Designator=U4 Old Footprint=MC7805CDTRKG New Footprint=MB6S-E3/80

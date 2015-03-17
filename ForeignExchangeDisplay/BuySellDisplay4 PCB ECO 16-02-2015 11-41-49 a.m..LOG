@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=COM_485_EN Pin=U2-34
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=COM_485_EN Pin=U2-14
+Added Room: Name=COM485
+Added Room: Name=CPU

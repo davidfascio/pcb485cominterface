@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=C9_REG2-2
+Added Pin To Net: NetName=DOT_7SEG3 Pin=R6_7SEG3-2
+Added Pin To Net: NetName=SEGF_7SEG3 Pin=R7_L16-2
+Added Pin To Net: NetName=SEGD_7SEG3 Pin=R7_L18-2
+Added Pin To Net: NetName=SEGC_7SEG3 Pin=R7_L20-2
+Added Pin To Net: NetName=SEGA_7SEG3 Pin=R7_L21-2

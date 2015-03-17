@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RESET_Y Pin=U5-10
+Removed Pin From Net: NetName=RESET_A Pin=U5-11
+Added Pin To Net: NetName=RESET_A Pin=U5-5
+Added Pin To Net: NetName=RESET_Y Pin=U5-6

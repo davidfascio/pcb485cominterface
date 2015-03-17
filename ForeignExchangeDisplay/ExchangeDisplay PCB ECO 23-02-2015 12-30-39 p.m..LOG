@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=OUT_Row1 Pin=D6_Row1-A
+Added Room: Name=BUS2
+Added Room: Name=BUS3
+Added Room: Name=COM485
+Added Room: Name=CPU
+Added Room: Name=MATRIX
+Added Room: Name=REG1
+Added Room: Name=REG2
+Added Room: Name=REG3
+Added Room: Name=Row1
+Added Room: Name=Row2
+Added Room: Name=Row3
+Added Room: Name=Row4
+Added Room: Name=Row5
+Added Room: Name=Row6
+Added Room: Name=Row7
+Added Room: Name=RowCtrl
+Added Room: Name=SUPPLY

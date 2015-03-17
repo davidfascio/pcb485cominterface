@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=C9_REG NewDesignator=C9_REG1
+Change Component Designator: OldDesignator=C9_TPIC6B5951 NewDesignator=C9_REG2
+Change Component Designator: OldDesignator=C9_TPIC6B5952 NewDesignator=C9_REG3
+Change Component Designator: OldDesignator=U3_REG NewDesignator=U3_REG1
+Change Component Designator: OldDesignator=U3_TPIC6B5951 NewDesignator=U3_REG2
+Change Component Designator: OldDesignator=U3_TPIC6B5952 NewDesignator=U3_REG3
+Change Class Name : Old Net Name=REG New Net Name=REG1
+Change Class Name : Old Net Name=TPIC6B5951 New Net Name=REG2
+Change Class Name : Old Net Name=TPIC6B5952 New Net Name=REG3
+Added Room: Name=REG1
+Added Room: Name=REG2
+Added Room: Name=REG3

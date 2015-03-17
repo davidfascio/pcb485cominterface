@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ExchangeDisplay3.PcbDoc   26/02/2015  04:45:11 p.m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ExchangeDisplay3.TXT
+EIA File   : ExchangeDisplay3.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        27.99mil (0.71095mm)     Round          1                7.67 Inch (194.73 mm)
+T2        28mil (0.7112mm)         Round          445              157.76 Inch (4007.05 mm)
+T3        35.43mil (0.89992mm)     Round          22               21.85 Inch (554.90 mm)
+T4        125mil (3.175mm)         Round          4                27.56 Inch (699.92 mm)
+T5        127.95mil (3.24993mm)    Round          4         NPTH   19.29 Inch (490.05 mm)
+---------------------------------------------------------------------------
+Totals                                            476              234.12 Inch (5946.65 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

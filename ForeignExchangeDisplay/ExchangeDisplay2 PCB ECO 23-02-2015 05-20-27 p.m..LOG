@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetQ1_Row7_1 Pin=Q1_Row7-1
+Added Pin To Net: NetName=OUT_Row7 Pin=Q1_Row7-2
+Added Pin To Net: NetName=ROW6 Pin=R6_Row7-2
+Added Pin To Net: NetName=ROW6 Pin=R7_Row7-1
+Added Pin To Net: NetName=NetQ1_Row7_1 Pin=R7_Row7-2

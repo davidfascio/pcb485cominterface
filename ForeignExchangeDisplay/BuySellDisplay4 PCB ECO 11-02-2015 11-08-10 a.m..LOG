@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=A Pin=J1_BUS2-5
+Removed Pin From Net: NetName=A Pin=J1_BUS3-5
+Added Pin To Net: NetName=A Pin=J1_BUS2-6
+Added Pin To Net: NetName=A Pin=J1_BUS3-6
+Added Pin To Net: NetName=TCP_RESET Pin=U2-13
+Added Net: Name=TCP_RESET

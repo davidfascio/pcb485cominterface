@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=UART0_TX_Y Pin=R12-2
+Removed Pin From Net: NetName=UART0_RX_A Pin=R13-2
+Removed Pin From Net: NetName=RESET_A Pin=R16-2
+Added Component: Designator=D5(150060YS75000)
+Added Component: Designator=D6(150060YS75000)
+Added Component: Designator=D7(150060YS75000)
+Added Pin To Net: NetName=UART0_TX_Y Pin=D5-1
+Added Pin To Net: NetName=UART0_RX_A Pin=D6-1
+Added Pin To Net: NetName=RESET_A Pin=D7-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R12-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R13-2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R16-2
+Added Net: Name=NetD7_2
+Added Member To Class: ClassName=TCPIP Member=Component D5 LEDY
+Added Member To Class: ClassName=TCPIP Member=Component D6 LEDY
+Added Member To Class: ClassName=TCPIP Member=Component D7 LEDY

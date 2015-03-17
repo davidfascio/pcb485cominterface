@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+3.3V Pin=R9-1
+Removed Pin From Net: NetName=+3.3V Pin=R10-1
+Removed Pin From Net: NetName=VCC Pin=R14-1
+Removed Pin From Net: NetName=VCC Pin=R15-1
+Removed Member From Class: ClassName=TCPIP Member=R9
+Removed Member From Class: ClassName=TCPIP Member=R9
+Removed Member From Class: ClassName=TCPIP Member=R10
+Removed Member From Class: ClassName=TCPIP Member=R10
+Removed Member From Class: ClassName=TCPIP Member=R14
+Removed Member From Class: ClassName=TCPIP Member=R14
+Removed Member From Class: ClassName=TCPIP Member=R15
+Removed Member From Class: ClassName=TCPIP Member=R15
+Added Room: Name=TCPIP

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=+3.3V Pin=R6-1
+Removed Pin From Net: NetName=UART0_RX_A Pin=R6-2
+Added Pin To Net: NetName=UART0_TX_A Pin=R6-2
+Removed Pin From Net: NetName=+3.3V Pin=R12-1
+Added Pin To Net: NetName=VCC Pin=R12-1
+Removed Pin From Net: NetName=UART0_RX_Y Pin=R12-2
+Added Pin To Net: NetName=UART0_TX_Y Pin=R12-2

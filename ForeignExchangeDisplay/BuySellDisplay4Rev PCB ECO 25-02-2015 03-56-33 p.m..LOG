@@ -1,0 +1,113 @@
+Added Pin To Net: NetName=EXTSUPP Pin=D7_L22-A
+Added Pin To Net: NetName=NetD7_L22_K Pin=D7_L22-K
+Added Pin To Net: NetName=EXTSUPP Pin=D7_L23-A
+Added Pin To Net: NetName=NetD7_L23_K Pin=D7_L23-K
+Added Pin To Net: NetName=EXTSUPP Pin=D7_L24-A
+Added Pin To Net: NetName=NetD7_L24_K Pin=D7_L24-K
+Added Pin To Net: NetName=NetD7_L25_K Pin=D7_L25-K
+Added Pin To Net: NetName=EXTSUPP Pin=D7_L26-A
+Added Pin To Net: NetName=NetD7_L26_K Pin=D7_L26-K
+Added Pin To Net: NetName=EXTSUPP Pin=D7_L27-A
+Added Pin To Net: NetName=NetD7_L27_K Pin=D7_L27-K
+Added Pin To Net: NetName=NetD7_L28_K Pin=D7_L28-K
+Added Pin To Net: NetName=NetD7_L22_K Pin=D8_L22-A
+Added Pin To Net: NetName=NetD8_L22_K Pin=D8_L22-K
+Added Pin To Net: NetName=NetD7_L23_K Pin=D8_L23-A
+Added Pin To Net: NetName=NetD8_L23_K Pin=D8_L23-K
+Added Pin To Net: NetName=NetD7_L24_K Pin=D8_L24-A
+Added Pin To Net: NetName=NetD8_L24_K Pin=D8_L24-K
+Added Pin To Net: NetName=NetD7_L25_K Pin=D8_L25-A
+Added Pin To Net: NetName=NetD8_L25_K Pin=D8_L25-K
+Added Pin To Net: NetName=NetD7_L26_K Pin=D8_L26-A
+Added Pin To Net: NetName=NetD8_L26_K Pin=D8_L26-K
+Added Pin To Net: NetName=NetD7_L27_K Pin=D8_L27-A
+Added Pin To Net: NetName=NetD8_L27_K Pin=D8_L27-K
+Added Pin To Net: NetName=NetD7_L28_K Pin=D8_L28-A
+Added Pin To Net: NetName=NetD8_L28_K Pin=D8_L28-K
+Added Pin To Net: NetName=NetD8_L22_K Pin=D9_L22-A
+Added Pin To Net: NetName=NetD9_L22_K Pin=D9_L22-K
+Added Pin To Net: NetName=NetD8_L23_K Pin=D9_L23-A
+Added Pin To Net: NetName=NetD9_L23_K Pin=D9_L23-K
+Added Pin To Net: NetName=NetD8_L24_K Pin=D9_L24-A
+Added Pin To Net: NetName=NetD9_L24_K Pin=D9_L24-K
+Added Pin To Net: NetName=NetD8_L25_K Pin=D9_L25-A
+Added Pin To Net: NetName=NetD9_L25_K Pin=D9_L25-K
+Added Pin To Net: NetName=NetD8_L26_K Pin=D9_L26-A
+Added Pin To Net: NetName=NetD9_L26_K Pin=D9_L26-K
+Added Pin To Net: NetName=NetD8_L27_K Pin=D9_L27-A
+Added Pin To Net: NetName=NetD9_L27_K Pin=D9_L27-K
+Added Pin To Net: NetName=NetD8_L28_K Pin=D9_L28-A
+Added Pin To Net: NetName=NetD9_L28_K Pin=D9_L28-K
+Added Pin To Net: NetName=NetD9_L22_K Pin=D10_L22-A
+Added Pin To Net: NetName=NetD10_L22_K Pin=D10_L22-K
+Added Pin To Net: NetName=NetD9_L23_K Pin=D10_L23-A
+Added Pin To Net: NetName=NetD10_L23_K Pin=D10_L23-K
+Added Pin To Net: NetName=NetD9_L24_K Pin=D10_L24-A
+Added Pin To Net: NetName=NetD10_L24_K Pin=D10_L24-K
+Added Pin To Net: NetName=NetD9_L25_K Pin=D10_L25-A
+Added Pin To Net: NetName=NetD10_L25_K Pin=D10_L25-K
+Added Pin To Net: NetName=NetD9_L26_K Pin=D10_L26-A
+Added Pin To Net: NetName=NetD10_L26_K Pin=D10_L26-K
+Added Pin To Net: NetName=NetD9_L27_K Pin=D10_L27-A
+Added Pin To Net: NetName=NetD10_L27_K Pin=D10_L27-K
+Added Pin To Net: NetName=NetD9_L28_K Pin=D10_L28-A
+Added Pin To Net: NetName=NetD10_L28_K Pin=D10_L28-K
+Added Pin To Net: NetName=NetD10_L22_K Pin=D11_L22-A
+Added Pin To Net: NetName=NetD11_L22_K Pin=D11_L22-K
+Added Pin To Net: NetName=NetD10_L23_K Pin=D11_L23-A
+Added Pin To Net: NetName=NetD11_L23_K Pin=D11_L23-K
+Added Pin To Net: NetName=NetD10_L24_K Pin=D11_L24-A
+Added Pin To Net: NetName=NetD11_L24_K Pin=D11_L24-K
+Added Pin To Net: NetName=NetD10_L25_K Pin=D11_L25-A
+Added Pin To Net: NetName=NetD11_L25_K Pin=D11_L25-K
+Added Pin To Net: NetName=NetD10_L26_K Pin=D11_L26-A
+Added Pin To Net: NetName=NetD11_L26_K Pin=D11_L26-K
+Added Pin To Net: NetName=NetD10_L27_K Pin=D11_L27-A
+Added Pin To Net: NetName=NetD11_L27_K Pin=D11_L27-K
+Added Pin To Net: NetName=NetD10_L28_K Pin=D11_L28-A
+Added Pin To Net: NetName=NetD11_L28_K Pin=D11_L28-K
+Change Net Name : Old Net Name=PIN_A New Net Name=PIN_D
+Change Net Name : Old Net Name=PIN_B New Net Name=PIN_C
+Change Net Name : Old Net Name=PIN_C New Net Name=PIN_B
+Change Net Name : Old Net Name=PIN_D New Net Name=PIN_A
+Added Room: Name=7SEG1
+Added Room: Name=7SEG2
+Added Room: Name=7SEG3
+Added Room: Name=7SEG4
+Added Room: Name=BUS2
+Added Room: Name=BUS3
+Added Room: Name=COM485
+Added Room: Name=CPU
+Added Room: Name=L1
+Added Room: Name=L2
+Added Room: Name=L3
+Added Room: Name=L4
+Added Room: Name=L5
+Added Room: Name=L6
+Added Room: Name=L7
+Added Room: Name=L8
+Added Room: Name=L9
+Added Room: Name=L10
+Added Room: Name=L11
+Added Room: Name=L12
+Added Room: Name=L13
+Added Room: Name=L14
+Added Room: Name=L15
+Added Room: Name=L16
+Added Room: Name=L17
+Added Room: Name=L18
+Added Room: Name=L19
+Added Room: Name=L20
+Added Room: Name=L21
+Added Room: Name=L22
+Added Room: Name=L23
+Added Room: Name=L24
+Added Room: Name=L25
+Added Room: Name=L26
+Added Room: Name=L27
+Added Room: Name=L28
+Added Room: Name=REG1
+Added Room: Name=REG2
+Added Room: Name=REG3
+Added Room: Name=REG4
+Added Room: Name=SUPPLY

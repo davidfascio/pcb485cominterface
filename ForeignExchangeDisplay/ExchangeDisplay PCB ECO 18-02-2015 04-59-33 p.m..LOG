@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=TPIC6B5953 Member=C9_TPIC6B5953
+Removed Member From Class: ClassName=TPIC6B5953 Member=U3_TPIC6B5953
+Change Component Designator: OldDesignator=C9_TPIC6B5951 NewDesignator=C9_REG
+Change Component Designator: OldDesignator=C9_TPIC6B5952 NewDesignator=C9_TPIC6B5951
+Change Component Designator: OldDesignator=C9_TPIC6B5953 NewDesignator=C9_TPIC6B5952
+Change Component Designator: OldDesignator=U3_TPIC6B5951 NewDesignator=U3_REG
+Change Component Designator: OldDesignator=U3_TPIC6B5952 NewDesignator=U3_TPIC6B5951
+Change Component Designator: OldDesignator=U3_TPIC6B5953 NewDesignator=U3_TPIC6B5952
+Change Class Name : Old Net Name=TPIC6B5953 New Net Name=REG
+Added Member To Class: ClassName=REG Member=Component C9_REG (C9) CAP0.1uF
+Added Member To Class: ClassName=REG Member=Component U3_REG (U3) POWER SHIFT REG
+Added Room: Name=MATRIX
+Added Room: Name=REG
+Added Room: Name=Row1
+Added Room: Name=Row2
+Added Room: Name=Row3
+Added Room: Name=Row4
+Added Room: Name=Row5
+Added Room: Name=Row6
+Added Room: Name=Row7

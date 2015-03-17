@@ -1,0 +1,9 @@
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=BUS|SchDesignator=BUS|FileName=BUS.SchDoc|SymbolType=Normal|RawFileName=BUS.SchDoc
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=COM485|SchDesignator=COM485|FileName=485_CommunicactionInterface.SchDoc|SymbolType=Normal|RawFileName=485_CommunicactionInterface.SchDoc
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=CPU|SchDesignator=CPU|FileName=CPU.SchDoc|SymbolType=Normal|RawFileName=CPU.SchDoc
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=PowerConnector.SchDoc|SymbolType=Normal|RawFileName=PowerConnector.SchDoc
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=SUPPLY|SchDesignator=SUPPLY|FileName=Supply.SchDoc|SymbolType=Normal|RawFileName=Supply.SchDoc
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=TCPIP|SchDesignator=TCPIP|FileName=TCP_CONNECTOR.SchDoc|SymbolType=Normal|RawFileName=TCP_CONNECTOR.SchDoc
+Record=SheetSymbol|SourceDocument=BUS.SchDoc|Designator=BUS|SchDesignator=BUS|FileName=BUSConnector.SchDoc|SymbolType=Normal|RawFileName=BUSConnector.SchDoc
+Record=SheetSymbol|SourceDocument=BUS.SchDoc|Designator=BUS|SchDesignator=BUS|FileName=BUSConnector.SchDoc|SymbolType=Normal|RawFileName=BUSConnector.SchDoc
+Record=TopLevelDocument|FileName=Master.SchDoc

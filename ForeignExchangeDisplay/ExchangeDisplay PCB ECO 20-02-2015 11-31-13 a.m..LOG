@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetQ1_Row1_1 Pin=Q1_Row1-1
+Added Pin To Net: NetName=OUT_Row1 Pin=Q1_Row1-2
+Added Pin To Net: NetName=EXTSUPP_Row1 Pin=Q1_Row1-3
+Added Pin To Net: NetName=EXTSUPP_Row1 Pin=R6_Row1-1
+Added Pin To Net: NetName=ROW6 Pin=R6_Row1-2
+Added Pin To Net: NetName=ROW6 Pin=R7_Row1-1
+Added Pin To Net: NetName=NetQ1_Row1_1 Pin=R7_Row1-2
+Added Room: Name=RowCtrl

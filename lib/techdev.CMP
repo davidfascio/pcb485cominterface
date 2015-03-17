@@ -1,0 +1,17 @@
+Component   : SOIC127P1030X265_HS-20N
+PCB Library : techdev.PcbLib
+Date        : 15/01/2015
+Time        : 03:21:47 p.m.
+
+
+
+Dimension : 11.989 x 13.614 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Layer                  21          0        0       0        0
+ Top Overlay                 0          4        0       1        0
+ Mechanical Layer 1          0          4        0       1        0
+ Mechanical Layer 1          0          6        0       0        0
+--------------------------------------------------------------------
+ Total                      21         14        0       2        0

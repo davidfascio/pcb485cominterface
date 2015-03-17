@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=EXTSUPP Pin=D7_L26-A
+Added Pin To Net: NetName=NetD7_L26_K Pin=D7_L26-K
+Added Pin To Net: NetName=NetD7_L26_K Pin=D8_L26-A
+Added Pin To Net: NetName=NetD8_L26_K Pin=D8_L26-K
+Added Pin To Net: NetName=NetD8_L26_K Pin=D9_L26-A
+Added Pin To Net: NetName=NetD9_L26_K Pin=D9_L26-K
+Added Pin To Net: NetName=NetD9_L26_K Pin=D10_L26-A
+Added Pin To Net: NetName=NetD10_L26_K Pin=D10_L26-K
+Added Pin To Net: NetName=NetD10_L26_K Pin=D11_L26-A
+Added Pin To Net: NetName=NetD11_L26_K Pin=D11_L26-K
+Added Room: Name=L26

@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BuySellDisplay5.PcbDoc   27/02/2015  10:23:30 a.m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BuySellDisplay5.TXT
+EIA File   : BuySellDisplay5.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        27.99mil (0.71095mm)     Round          2                20.70 Inch (525.74 mm)
+T2        28mil (0.7112mm)         Round          356              130.68 Inch (3319.34 mm)
+T3        35.43mil (0.89992mm)     Round          22               20.04 Inch (508.89 mm)
+T4        125mil (3.175mm)         Round          8                22.78 Inch (578.52 mm)
+T5        127.95mil (3.24993mm)    Round          4         NPTH   17.70 Inch (449.68 mm)
+---------------------------------------------------------------------------
+Totals                                            392              211.90 Inch (5382.17 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
